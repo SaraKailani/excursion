@@ -24,3 +24,8 @@ p {
     color: gray;
     text-align: right;
 }
+.demo {
+    color: gray;
+    text-align: left;
+    font-size: 10px;
+}
